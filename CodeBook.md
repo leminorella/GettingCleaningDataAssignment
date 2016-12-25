@@ -49,7 +49,7 @@ and create tiny data sets:
 - groupData- subsetted, human-readable data ready for output according to project description.
 
 ### Output
-#### tidyData.txt
+#### `MeanData.txt`
 
 `tidyData.txt` is a 10299x68 data frame.
 
