@@ -51,7 +51,7 @@ and create tiny data sets:
 ### Output
 #### `MeanData.txt`
 
-`tidyData.txt` is a 10299x68 data frame.
+`MeanData.txt` is a 10299x68 data frame.
 
 - The first column contains subject IDs.
 - The second column contains activity names.
